@@ -3,52 +3,63 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=E4GL3X&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=E4GL3X&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=E4GL3X&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=E4GL3X&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="50" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="50" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="50" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="50" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="50" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="50" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
-  <img width="50" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="50" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="50" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
-  <img width="50" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
 </div>
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mohammadtohasiddique/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto: mohammadtohasiddique@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="facebook.com/MohammadTohaSiddique" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-</div>
+<h2 align="center">Education</h2>
+
+###
+
+<h2 align="left">Secondary School Certificate</h2>
+
+###
+
+<p align="left">A.K. School & College      |      Science  |      5.00</p>
+
+###
+
+<h2 align="left">Higher Secondary Certificate</h2>
+
+###
+
+<p align="left">Govt. Science College      |      Science  |      5.00</p>
+
+###
+
+<h2 align="left">Bachelor's of Science</h2>
+
+###
+
+<p align="left">Daffodil International University     |      CSE     |      3.50</p>
 
 ###
 
@@ -56,6 +67,24 @@
 
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=E4GL3X.E4GL3X&left_color=crimson&left_text=Git%20Gazers"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohammadtohasiddique/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="20" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="20" alt="gmail logo"  />
+  <a href="https://discord.gg/VrASWxsT" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="20" alt="discord logo"  />
+  </a>
+  <a href="https://www.facebook.com/MohammadTohaSiddique/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="60" height="20" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/mohammad_toha_siddique/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="20" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
