@@ -1,5 +1,5 @@
-# 💫 About Me:
-Just a beginning ...
+# 💫 Just a beginning ...
+
 
 
 ## 🌐 Socials:
