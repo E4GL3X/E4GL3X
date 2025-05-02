@@ -35,14 +35,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=E4GL3X.E4GL3X&left_color=crimson&left_text=Git%20Gazers"  />
-</div>
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/mohammadtohasiddique/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="20" alt="linkedin logo"  />
