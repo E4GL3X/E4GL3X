@@ -1,4 +1,3 @@
-<h1 align="center">My Nutty Nuggets</h1>
 
 ###
 
@@ -43,7 +42,7 @@
 
 ###
 
-<p align="left">A.K. School & College      |      Science  |      5.00</p>
+<p align="left">A.K. School & College      |      Science  </p>
 
 ###
 
@@ -51,7 +50,7 @@
 
 ###
 
-<p align="left">Govt. Science College      |      Science  |      5.00</p>
+<p align="left">Govt. Science College      |      Science  </p>
 
 ###
 
@@ -59,7 +58,7 @@
 
 ###
 
-<p align="left">Daffodil International University     |      CSE     |      3.50</p>
+<p align="left">Daffodil International University     |      CSE     </p>
 
 ###
 
