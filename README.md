@@ -32,33 +32,6 @@
   <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
 </div>
 
-###
-
-<h2 align="center">Education</h2>
-
-###
-
-<h2 align="left">Secondary School Certificate</h2>
-
-###
-
-<p align="left">A.K. School & College      |      Science  </p>
-
-###
-
-<h2 align="left">Higher Secondary Certificate</h2>
-
-###
-
-<p align="left">Govt. Science College      |      Science  </p>
-
-###
-
-<h2 align="left">Bachelor's of Science</h2>
-
-###
-
-<p align="left">Daffodil International University     |      CSE     </p>
 
 ###
 
