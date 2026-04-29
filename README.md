@@ -2,11 +2,6 @@
 
 <div align="center">
 
-<!-- Animated profile views badge -->
-<a href="https://komarev.com/ghpvc/?username=E4GL3X">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=A371F7&center=true&vCenter=true&width=280&lines=👁️+Profile+Views;+Loading+stats...;+Welcome+to+my+profile!" alt="Typing SVG" />
-</a>
-
 <a href="https://komarev.com/ghpvc/?username=E4GL3X">
   <img src="https://komarev.com/ghpvc/?username=E4GL3X&label=Profile%20Views&color=a371f7&style=for-the-badge" alt="Profile Views" />
 </a>
