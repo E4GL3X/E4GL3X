@@ -13,17 +13,13 @@
 
 </div>
 
----
-
-## 📊 GitHub Stats & Trophies
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=E4GL3X&theme=github_dark&hide_border=true&cache_seconds=86400" alt="E4GL3X's GitHub Streak" width="49%" />
 </p>
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 | Category | Technologies |
 |---|---|
@@ -35,7 +31,7 @@
 
 ---
 
-## 🔗 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammadtohasiddique">
