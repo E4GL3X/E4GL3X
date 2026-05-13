@@ -38,7 +38,7 @@
   <a href="mailto:mohammadtohasiddique@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="https://e4gl3x.github.io/Portfolio/">
+  <a href="https://recursid.github.io/Portfolio/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
 </p>
