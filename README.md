@@ -2,14 +2,14 @@
 
 <div align="center">
 
-<a href="https://komarev.com/ghpvc/?username=E4GL3X">
-  <img src="https://komarev.com/ghpvc/?username=E4GL3X&label=Profile%20Views&color=a371f7&style=for-the-badge" alt="Profile Views" />
+<a href="https://komarev.com/ghpvc/?username=recursid">
+  <img src="https://komarev.com/ghpvc/?username=recursid&label=Profile%20Views&color=a371f7&style=for-the-badge" alt="Profile Views" />
 </a>
 
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=E4GL3X&theme=github_dark&hide_border=true&cache_seconds=86400" alt="E4GL3X's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=recursid&theme=github_dark&hide_border=true&cache_seconds=86400" alt="RecurSID's GitHub Streak" width="49%" />
 </p>
 
 ---
